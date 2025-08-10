@@ -1,0 +1,1 @@
+// dummy bad foo.js
